@@ -1,0 +1,8 @@
+
+.venv/
+__pycache__/
+vectorstore/
+data/
+.env
+*.pyc
+test_gemini.py
